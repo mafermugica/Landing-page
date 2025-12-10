@@ -78,3 +78,20 @@ font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Ox
     text-align: center;
     width: 180px;
 }
+
+.attribution{
+    text-align: right;
+}
+
+.section-quote{
+    background-color: #E5E7EB;
+    padding: 100px 15%;
+}
+
+blockquote{
+    color: #1F2937;
+    font-weight: 300;
+    font-size: 36px;
+    width: 750px;
+    margin: 0 auto;
+}
