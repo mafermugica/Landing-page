@@ -95,3 +95,29 @@ blockquote{
     width: 750px;
     margin: 0 auto;
 }
+
+.cta-box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 50px 100px;
+    color: #F9FAF8;
+}
+
+.cta-button{
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    background-color: transparent;
+    border-radius: 8px;
+    padding: 8px 32px;
+
+}
+
+footer{
+    background-color: #1F2937;
+    color: #F9FAF8;
+    justify-content: center;
+    text-align: center;
+    padding: 24px 0;
+}
